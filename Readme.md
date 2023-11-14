@@ -36,7 +36,7 @@ The project follows the Repository Pattern for data persistence and uses a simpl
 1. Clone the repository:
 
    git clone https://github.com/Alittlejordan/exercise-tracker.git
-   cd exercise-tracker
+  
 
 2. Open the ExerciseTracker/app.config file and update the connection string
 
